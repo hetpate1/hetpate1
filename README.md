@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hetpate1
 - 👀 I’m interested in learning different aspects of computer science.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning machine learning.
 
 <!---
 hetpate1/hetpate1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
